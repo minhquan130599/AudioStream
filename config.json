@@ -1,0 +1,12 @@
+{
+  "peer_ip": "192.168.110.92",
+  "send_port": 5002,
+  "receive_port": 5001,
+  "sample_rate": 48000,
+  "channels": 2,
+  "chunk_size": 960,
+  "opus_bitrate": 64000,
+  "input_device": null,
+  "output_device": null,
+  "volume": 1.0
+}
